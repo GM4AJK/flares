@@ -1,5 +1,6 @@
 # 2025-10-20 Kyle Vidmar Orb Video
 
+* [Sitrec](https://www.metabunk.org/sitrec/?custom=https://sitrec.s3.us-west-2.amazonaws.com/14452/kylevidmar_2025_10_20/20251022_073603.js)
 * [Twitter Link](https://x.com/sysbadm1n/status/1980640830244417887)
 * [Video link](https://www.dropbox.com/scl/fi/tgb5gsm6sfosxnknw4kio/2025-10-20-KyleVidmar.mp4?rlkey=szctx1oydkvt115xi1tgksrx4&st=wcabeigc&dl=0)
 * [Artifacts](https://www.dropbox.com/scl/fi/e7raeaiugmb1cawl1b3l4/kylevidmar-2025-10-20-artifacts.zip?rlkey=iiducrb706mo4ijwulci23yyb&st=88p02srf&dl=0)
