@@ -1,0 +1,35 @@
+{
+	"desc": "2025-10-21-KyleVidmar",
+	"tle_files": [
+		"/mnt/c/Users/kirkh/github/flares/observations/2025-10-21-KyleVidmar/artifacts/all-tle.txt"
+	],
+	"target_radius_degrees": 0.25,
+	"sat_max_alt": 16000.0,
+	"observer": {
+		"lat": 39.43,
+		"lon": -76.388,
+		"alt": 0.06
+	},
+        "start_dt": {
+                "year": 2025,
+                "mon": 10,
+                "day": 20,
+                "hour": 23,
+                "min": 0,
+                "sec": 0
+        },
+	"utc_offset": -4,
+    "run_minutes": 180.0,
+	"step_seconds": 1,
+	"target_list": [
+		{
+			"name": "27 Lyn",
+			"ra": {
+				"hours": 8,
+				"minutes": 10,
+				"seconds": 28.39
+			},
+			"dec": 51.42875
+		}
+	]
+}
